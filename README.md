@@ -15,7 +15,7 @@ Hello! I'm Tyler, a financial data analytics professional with just over a decad
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tylerdardis/)
 
 ## 📊 My Portfolio
-| Project      | Category      | Description              | Tools      |
+| Project      | Skill Area      | Description              | Tools      |
 | ------------ | ------------- | ------------------------ | ---------- |
 | [Health Center Data ELT](https://github.com/tyler-dardis/Health-Center-Data-ELT) | ELT, database management, exploratory data analysis | Retrieved data relating to community health center operations from HRSA.gov, loaded the data into a MySQL database, and performed data wrangling and high-level exploratory data analysis. | SQL (and minimal Python) |
 | [Health Center Dashboards](https://github.com/tyler-dardis/Health-Center-Dashboards) | Data visualization, dashboarding | Built two Tableau dashboards: one to visualize aggregated data at the national level, and a second to visualize data at the individual health center level (with an interactive dropdown, allowing the user to select any one health center). | Tableau |
