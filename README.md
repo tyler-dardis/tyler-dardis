@@ -16,5 +16,5 @@ Hello! I'm Tyler, a financial and clinical data analytics professional with over
 ## 📊 My Portfolio
 | Project      | Category      | Description              | Tools      |
 | ------------ | ------------- | ------------------------ | ---------- |
-| UDS SQL Database | ELT, database management, exploratory data analysis | Retreived data relating to community health center operations from HRSA.gov, loaded the data into a MySQL database, and performed data wrangling and high level exploratory data analysis. | SQL (and minimal Python) |
-| UDS Dashboards | Data visualization, dashboarding | Built two Tableau dashboards: one to visualize aggregated data at the national level, and a second to visualize data at the individual health center level (with an interactive dropdown, allowing the user to select any one health center). | Tableau |
+| [Health Center Data ELT](https://github.com/tyler-dardis/Health-Center-Data-ELT) | ELT, database management, exploratory data analysis | Retreived data relating to community health center operations from HRSA.gov, loaded the data into a MySQL database, and performed data wrangling and high level exploratory data analysis. | SQL (and minimal Python) |
+| [Health Center Dashboards](https://github.com/tyler-dardis/Health-Center-Dashboards) | Data visualization, dashboarding | Built two Tableau dashboards: one to visualize aggregated data at the national level, and a second to visualize data at the individual health center level (with an interactive dropdown, allowing the user to select any one health center). | Tableau |
