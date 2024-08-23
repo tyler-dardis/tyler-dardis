@@ -1,4 +1,4 @@
-## 👋 Introduction
+## Introduction 👋
 
 Hello! I'm Tyler, a financial data analytics professional with just over a decade of experience, primarily in the healthcare industry. I'm now transitioning from finance and accounting to focus solely on data science, where I aim to leverage my healthcare domain knowledge to drive data-driven solutions and insights.
 
