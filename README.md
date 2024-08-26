@@ -5,7 +5,7 @@ Hello! I'm Tyler, a financial data analytics professional with just over a decad
 ## About Me:
 - 💼 **Professional Background:** Extensive experience in healthcare, with a focus on financial model development, dashboard and report building, and data analytics
 - 🎓 **Education:** IBM Data Science Professional Certificate (2024) and B.S. in Finance (2013)
-- 🌱 **Currently Learning:** Theoretical mathematics and statistical learning to better inform my model development
+- 🌱 **Currently Learning:** Linear algebra and more of the theory behind ML to better inform my model development
 - 🥅 **Career Goals:** As I further develop my data science toolbelt, I aim to serve in roles where I can utilize machine learning to improve public health and better understand the hidden social determinants (X) of health (y).
 - 🛠️ **Tools:**
   - **Languages:** SQL, Python
