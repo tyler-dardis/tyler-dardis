@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-Hello! I'm Tyler, a financial data analytics professional with just over a decade of experience, primarily in the healthcare industry. I'm now transitioning from finance and accounting to focus solely on data science, where I aim to leverage my healthcare domain knowledge to drive data-driven solutions and insights.
+Hello! I'm Tyler, a financial data analytics professional with just over a decade of experience, primarily in the healthcare industry. Recently, I've been working to expand my skillset by incorporating more data science techniques into my existing financial and healthcare analytics work. My goal is to drive even more impactful, data-driven solutions and insights across these areas.
 
 ## About Me:
 - 💼 **Professional Background:** Extensive experience in healthcare, with a focus on financial model development, dashboard and report building, and data analytics
