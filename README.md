@@ -9,7 +9,7 @@ Hello! I'm Tyler, a financial data analytics professional with just over a decad
   - Data Science in Stratified Healthcare and Precision Medicine Certificate (2024)
   - Udemy Power BI Desktop for Business Intelligence (2024)
   - B.S. in Finance (2013)
-- 🌱 **Currently Learning:** Building more robust dashboards in Power BI utilizing DAX and Power Query.
+- 🌱 **Currently Learning:** Data engineering tool, like Apache Spark and Flink, for building more robust pipelines.
 - 🥅 **Career Goals:** As I further develop my data science toolbelt, I aim to serve in roles where I can utilize machine learning to improve public health and better understand the hidden social determinants (X) of health (y).
 - 🛠️ **Tools:**
   - **Languages:** SQL, Python
