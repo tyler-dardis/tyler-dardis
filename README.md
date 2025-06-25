@@ -16,7 +16,6 @@ Hello! I'm Tyler, a financial data analytics professional with just over a decad
   - **Data Manipulation/Machine Learning:** Pandas, NumPy, Scikit-Learn
   - **Visualization:** Tableau, Matplotlib, Seaborn
   - **Others:** Excel, Cuisinart ice cream maker
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tylerdardis/)
 
 ## 📊 My Portfolio
 | Project      | Skill Area      | Description              | Tools      |
