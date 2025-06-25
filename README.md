@@ -14,7 +14,7 @@ Hello! I'm Tyler, a financial data analytics professional with just over a decad
 - 🛠️ **Tools:**
   - **Languages:** SQL, Python
   - **Data Manipulation/Machine Learning:** Pandas, NumPy, Scikit-Learn
-  - **Visualization:** Tableau, Matplotlib, Seaborn
+  - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
   - **Others:** Excel, Cuisinart ice cream maker
 
 ## 📊 My Portfolio
